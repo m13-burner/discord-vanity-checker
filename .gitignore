@@ -1,0 +1,11 @@
+available.txt
+proxies.txt
+checker.py
+requirements.txt
+start.bat
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+github release/
